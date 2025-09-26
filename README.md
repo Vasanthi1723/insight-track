@@ -6,8 +6,10 @@ Welcome to InsightTrack, an advanced platform designed to monitor and enhance cu
 
 <img width="3072" height="1548" alt="image" src="https://github.com/user-attachments/assets/2ebb052f-dc85-4859-8de6-6674c624c6ca" />
 
+<img width="1303" height="654" alt="Screenshot 2025-09-26 at 19 58 32" src="https://github.com/user-attachments/assets/0c34579e-fe86-4a22-bd5d-1745cd198e44" />
 
 ## Key Features
+
 
 - **Real-Time Customer Insights**: Gain instant visibility into how customers interact with your product, from their first visit to ongoing usage.
 - **Stakeholder-Friendly Dashboards**: Designed with business stakeholders in mind, our dashboards present complex data in a simplified, easily understandable format.
