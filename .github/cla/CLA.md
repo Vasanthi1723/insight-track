@@ -18,7 +18,7 @@ You certify that:
 You provide your contributions "as-is" without warranties or conditions of any kind.
 
 ## 4. How to Revoke
-To revoke this agreement for future contributions, contact opensource@resilience-tech.com. Revocation does not affect prior contributions.
+To revoke this agreement for future contributions, contact opensource@resiliencetech.org. Revocation does not affect prior contributions.
 
 ---
 
